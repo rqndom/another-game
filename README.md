@@ -3,7 +3,7 @@ Play it directly [here](http://rawgit.com/rqndom/another-game/master/game.html).
 
 ## Objective
 
-Try to reach all red checkpoints.
+Try to reach all checkpoints in red.
 
 ## Commands
 
