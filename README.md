@@ -1,5 +1,5 @@
 
-Play it directly [here](http://rawgit.com/rqndom/another-game/master/game.html).
+Play it directly [here](http://rqndom.github.io/another-game/).
 
 ## Objective
 
