@@ -7,7 +7,7 @@ Try to reach all red checkpoints.
 
 ## Commands
 
-* arrows: move
-* space: jump
-* shift: respawn (last checkpoint)
-* enter: restart
+* `Arrows` to move
+* `Space` to jump
+* `Shift` to respawn (last checkpoint)
+* `Enter` to restart
